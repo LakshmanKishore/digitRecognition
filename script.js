@@ -20,6 +20,7 @@ window.onload = function () {
    let x, y;
 
    function draw(e) {
+      e.preventDefault();
       [x, y] = getXY(e);
       c.strokeStyle = "white";
       c.lineWidth = 20;
