@@ -6,6 +6,8 @@
 * Bought the model folder into the web app and used the model.
 * This was built for making me understand the Neural Network concept.
 
+## You Can watch the code live [here](https://lakshman-digitRecognition.surge.sh)
+
 # NOTE
 
 * The Model does not provide 100% accuracy.
