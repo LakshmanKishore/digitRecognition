@@ -1,0 +1,14 @@
+html{
+    height: 100%;
+}
+.result{
+    font-size: 5rem;
+}
+body{
+    color: white;
+    background-repeat: no-repeat;
+    background: #FFB75E;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #ED8F03, #FFB75E);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #ED8F03, #FFB75E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-attachment: fixed;
+}
